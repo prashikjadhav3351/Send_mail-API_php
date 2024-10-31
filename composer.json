@@ -1,0 +1,21 @@
+{
+    "name": "acer/db_test",
+    "description": "A simple form submission project with email notifications.",
+    "type": "project",
+    "require": {
+        "#": "phpmailer/phpmailer",
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Acer\\DbTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prashikjadhav3351",
+            "email": "prashikjadhav90031@gmail.com"
+        }
+    ]
+}
